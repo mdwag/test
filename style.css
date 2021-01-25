@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+   }
+   h2 {
+       color:blue;
+       font-size: 20px;
+       position: relative;
+       bottom: 15px;
+   }
+   table {
+     background-color: gray;
+   }
+   table, th, td {
+    border: 1px solid black;
+  }
+    .middle-div{
+        background-color: green;
+    }
